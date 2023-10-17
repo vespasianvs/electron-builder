@@ -1,5 +1,11 @@
 # app-builder-lib
 
+## 24.7.1
+
+### Patch Changes
+
+- [#7798](https://github.com/electron-userland/electron-builder/pull/7798) [`526e075e`](https://github.com/electron-userland/electron-builder/commit/526e075edddf908b9688e108a18fbb76e6f047be) Thanks [@iffy](https://github.com/iffy)! - fix: run nsis and portable builds sequentially. fixes #7791
+
 ## 24.7.0
 
 ### Minor Changes
